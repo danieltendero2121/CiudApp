@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Seleccione su idioma"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:textSize="20dp"
+        android:id="@+id/textView"
+        android:layout_marginBottom="15dp"
+        android:textColor="@color/habitabilidad" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_castellano"
+        android:layout_below="@+id/textView"
+        android:background="@android:color/transparent"
+        android:layout_centerHorizontal="true"
+        android:text="@string/castellano"
+        android:textSize="16sp" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/catalan"
+        android:textSize="16sp"
+        android:id="@+id/button_catalan"
+        android:background="@android:color/transparent"
+        android:layout_below="@+id/button_castellano"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/gallego"
+        android:textSize="16sp"
+        android:id="@+id/button_gallego"
+        android:background="@android:color/transparent"
+        android:layout_below="@+id/button_catalan"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/euskera"
+        android:textSize="16sp"
+        android:id="@+id/button_euskera"
+        android:background="@android:color/transparent"
+        android:layout_below="@+id/button_gallego"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ingles"
+        android:textSize="16sp"
+        android:id="@+id/button_ingles"
+        android:background="@android:color/transparent"
+        android:layout_below="@+id/button_euskera"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp" />
+
+</RelativeLayout>

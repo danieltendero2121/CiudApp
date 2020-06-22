@@ -1,0 +1,90 @@
+<resources>
+
+    <string name="Settings">Ajustes</string>
+    <string name="settings_seleccione">Seleccione su residencia</string>
+    <string name="settings_cp">Introduzca su código postal</string>
+    <string name="settings_buttonOK">ACEPTAR</string>
+    <string name="castellano">Castellano</string>
+    <string name="catalan">Catalán</string>
+    <string name="gallego">Gallego</string>
+    <string name="euskera">Euskera</string>
+    <string name="ingles">Inglés</string>
+    <string name="menu_cambiar_residencia">Cambiar residencia</string>
+    <string name="menu_idiomas">Seleccione idioma</string>
+    <string name="menu_legal">Información Legal</string>
+    <string name="informacion_legal">Para usar esta app no necesita registrarse de ninguna manera. Sin embrago, la dirección MAC del dispositivo quedará registrada, previa encriptación, en nuetra base de datos. El Acceso a la página web tampoco requiere de ningún registro. Pero si desea hacer publicaciones en la misma, sí deberá registrarse con su nombre y correo electrónico.</string>
+
+
+    <string name="app_name">CiudAPP</string>
+
+    <!-- activity principal  -->
+    <string name="txt_tu_barrio">Tu barrio</string>
+    <string name="txt_nombre_barrio">Arganzuela</string>
+    <string name="txt_nota_actual">Nota actual</string>
+    <string name="txt_nota">9,8</string>
+
+
+    <!-- activity habitabilidad  -->
+    <string name="tit_habitabilidad">Habitabilidad</string>
+    <string name="hab_txt_zonas_infantiles">Zonas infantiles</string>
+    <string name="hab_txt_trafico">Tráfico</string>
+    <string name="hab_txt_parques">Parques</string>
+    <string name="hab_txt_cesta_compra">Cesta Compra</string>
+    <string name="hab_txt_limpieza">Limpieza</string>
+    <string name="hab_txt_ruido">Ruido</string>
+    <string name="habitabilidad_pregunta_zonasInfantiles">¿Considera que en su lugar de residencia existen suficientes zonas para el entretenimiento infantil y que se encuentran en buenas condiciones?</string>
+    <string name="habitabilidad_pregunta_trafico">¿Cómo considera que es habitualmente la situación del tráfico en su lugar de residencia?</string>
+    <string name="habitabilidad_pregunta_parques">¿Considera que su lugar de residencia cuenta con zonas verdes suficientes y que están en buenas condiciones?</string>
+    <string name="habitabilidad_pregunta_cestaCompra">¿Considera que su lugar de residencia cuenta con una buena variedad de tiendas suficientes para realizar sus compras habituales y que presentan una buena relación calidad precio?</string>
+    <string name="habitabilidad_pregunta_limpieza">¿Considera que su lugar de residencia está habitualmente limpio?</string>
+    <string name="habitabilidad_pregunta_ruido">¿Cómo calificaría, en general, el nivel de ruido en su lugar de residencia?</string>
+
+
+    <!-- activity ocio  -->
+    <string name="tit_ocio">Ocio y tiempo libre</string>
+    <string name="oci_txt_cines">Cines</string>
+    <string name="oci_txt_restaurantes">Restaurantes</string>
+    <string name="oci_txt_bares">Bares</string>
+    <string name="oci_txt_museos">Oferta Cultural</string>
+    <string name="oci_txt_discotecas">Discotecas</string>
+    <string name="oci_txt_centros_comerciales">C.Comerciales</string>
+    <string name="ocio_pregunta_cines">En su lugar de residencia, ¿existen salas de cine y están en buenas condiciones?</string>
+    <string name="ocio_pregunta_restaurantes">¿Considera que en su lugar de residencia hay una buena oferta de restauración?</string>
+    <string name="ocio_pregunta_bares">¿Considera que en su lugar de residencia hay una buena oferta de bares y/o cafeterías?</string>
+    <string name="ocio_pregunta_discotecas">¿Considera que en su lugar de residencia hay una buena oferta de discotecas y/o pubs nocturnos?</string>
+    <string name="ocio_pregunta_centrosComerciales">¿Existen en su lugar de residencia centros comerciales adecuados y en buenas condiciones?</string>
+    <string name="ocio_pregunta_ofertaCultural">¿Considera que en su lugar de residencia hay una buena oferta de actividades culturales?</string>
+
+    <!-- activity servicios  -->
+    <string name="tit_servicios">Servicios</string>
+    <string name="ser_txt_parking">Aparcamiento</string>
+    <string name="ser_txt_policia">Policía</string>
+    <string name="ser_txt_centros_salud">Aten.Sanitaria</string>
+    <string name="ser_txt_colegios">Colegios</string>
+    <string name="ser_txt_transporte_publico">Trans.Público</string>
+    <string name="ser_txt_biblioteca">Biblioteca</string>
+    <string name="servicios_pregunta_aparcamiento">¿Existen en su lugar de residencia suficientes plazas de aparcamiento y/o parkings asequibles?</string>
+    <string name="servicios_pregunta_atencionSanitaria">¿Existen en su lugar de residencia suficientes centros de atención sanitaria, que son variados y están en buenas condiciones?</string>
+    <string name="servicios_preguntas_policia">¿Considera que en su lugar de residencia la presencia policial es la necesaria y cumple satisfactoriamente su función?</string>
+    <string name="servicios_preguntas_colegios">¿Considera que en su lugar de residencia hay suficientes centros educativos y que están en buenas condiciones y resultan asequibles?</string>
+    <string name="servicios_pregunta_transporte">¿Considera que su lugar de residencia está bien comunicado y el transporte público es de calidad?</string>
+    <string name="servicios_preguntas_bibliotecas">¿Existen en su lugar de residencia bibliotecas y/o ludotecas bien dotadas y en buenas condiciones?</string>
+
+
+    <!-- activity seguridad  -->
+    <string name="tit_seguridad">Seguridad</string>
+    <string name="seg_txt_drogas">Drogas</string>
+    <string name="seg_txt_peleas">Peleas y Altercados</string>
+    <string name="seg_txt_prostitucion">Prostitución</string>
+    <string name="seg_txt_robos">Robos</string>
+    <string name="seg_txt_otros">Otros</string>
+    <string name="seguridad_pregunta_drogas">¿Considera que en su lugar de residencia hay una preocupante presencia de drogas, consumo y/o venta?</string>
+    <string name="seguridad_pregunta_robos">¿Considera que en su lugar de residencia se dan con frecuencia los robos?</string>
+    <string name="seguridad_pregunta_prostitucion">¿Considera que en su lugar de residencia hay una preocupante presencia de prostitución, callejera y/o en locales?</string>
+    <string name="seguridad_pregunta_altercados">¿Considera que en su lugar de residencia se dan con frecuencia peleas y/o altercados?</string>
+    <string name="seguridad_pregunta_otros">¿Existen en su lugar de residencia otro tipo de inseguridades?</string>
+    
+    <!-- Menú inferior -->
+    <string name="txt_menu_whatever">\?</string>
+    <string name="txt_menu_mapa">Mapa</string>
+</resources>

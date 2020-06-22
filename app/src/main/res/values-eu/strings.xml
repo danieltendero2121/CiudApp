@@ -1,0 +1,88 @@
+<resources>
+
+    <string name="Settings">Aukerak</string>
+    <string name="settings_seleccione">Aukeratu zure egoitza</string>
+    <string name="settings_cp">Idatzi ZIP kodea</string>
+    <string name="settings_buttonOK">ONARTU</string>
+    <string name="settings_seleccione_idioma">Hizkuntza aukeratu</string>
+    <string name="castellano">Gaztelania</string>
+    <string name="catalan">Katalan</string>
+    <string name="gallego">Galego</string>
+    <string name="euskera">Euzkera</string>
+    <string name="ingles">English</string>
+
+
+
+    <string name="app_name">CiudAPP</string>
+
+    <!-- activity principal  -->
+    <string name="txt_tu_barrio">Zure auzoan</string>
+    <string name="txt_nombre_barrio">Arganzuela</string>
+    <string name="txt_nota_actual">Uneko oharra</string>
+    <string name="txt_nota">9,8</string>
+
+
+    <!-- activity habitabilidad  -->
+    <string name="tit_habitabilidad">Bizigarritasuna</string>
+    <string name="hab_txt_zonas_infantiles">Haur-guneak</string>
+    <string name="hab_txt_trafico">Trafiko</string>
+    <string name="hab_txt_parques">Jolastokiak</string>
+    <string name="hab_txt_cesta_compra">Erosketarako Soukia</string>
+    <string name="hab_txt_limpieza">Garbiketa</string>
+    <string name="hab_txt_ruido">Zarata</string>
+    <string name="habitabilidad_pregunta_zonasInfantiles">Uste duzu zure bizitokia aurre-gune nahiko dituela, eta egoera onean daudela?</string>
+    <string name="habitabilidad_pregunta_trafico">Nola uste duzu dela trafikoaren egoera zure bizitokian?</string>
+    <string name="habitabilidad_pregunta_parques">Uste duzu zure bizitokia berdegune nahiko dituela, eta egoera onean daudela?</string>
+    <string name="habitabilidad_pregunta_cestaCompra">Uste duzu zure bizitokia denda mota nahiko dituela zure ohizko komprak egiteko eta kalitate-prezio ongi dituztela?</string>
+    <string name="habitabilidad_pregunta_limpieza">Uste duzu zure bizitokia normalean garbia dagoela?</string>
+    <string name="habitabilidad_pregunta_ruido">Nola adieraziko zenuke, orokorrean, zarata maila zure bizitokian?</string>
+
+
+    <!-- activity ocio  -->
+    <string name="tit_ocio">Aisia eta Denbora Libre</string>
+    <string name="oci_txt_cines">Zinemak</string>
+    <string name="oci_txt_restaurantes">Jatetxeak</string>
+    <string name="oci_txt_bares">Tabernak</string>
+    <string name="oci_txt_museos">Kultur Eskaintza</string>
+    <string name="oci_txt_discotecas">Dantzaleku</string>
+    <string name="oci_txt_centros_comerciales">Merkatal guneak</string>
+    <string name="ocio_pregunta_cines">Zinemak daude zure bizitokian? Eta egoera onean daude?</string>
+    <string name="ocio_pregunta_restaurantes">Uste duzu zure bizitokian ostalaritza eskaintza ona dagoela?</string>
+    <string name="ocio_pregunta_bares">Uste duzu zure bizitokian kafetegia eta/edo taberna eskaintza ona dagoela?</string>
+    <string name="ocio_pregunta_discotecas">Uste duzu zure bizitokian dantzaleku eta/edo gaueko pubs eskaintza ona dagoela?</string>
+    <string name="ocio_pregunta_centrosComerciales">Zure bizitokia merkatal gune egokiak ditu eta egoera onean daude?</string>
+    <string name="ocio_pregunta_ofertaCultural">Uste duzu ez beraien bizitokia ere kultura eskaintza ona da?</string>
+
+    <!-- activity servicios  -->
+    <string name="tit_servicios">Zerbitzuak</string>
+    <string name="ser_txt_parking">Aparkaleku</string>
+    <string name="ser_txt_policia">Polizia</string>
+    <string name="ser_txt_centros_salud">Osasun-laguntza</string>
+    <string name="ser_txt_colegios">Ikastetxeak</string>
+    <string name="ser_txt_transporte_publico">Garraio-pubikoa</string>
+    <string name="ser_txt_biblioteca">Liburutegia</string>
+    <string name="servicios_pregunta_aparcamiento">Aparkaleku doan edo merke nahiko daude zure bizitokian?</string>
+    <string name="servicios_pregunta_atencionSanitaria">Mota desberdin eta egoera onean dauden osasun zentro nahiko daude zure bizitokian?</string>
+    <string name="servicios_preguntas_policia">Polizia beharkoa dela eta bere beharpena betetzen dituztela zure bizitokian uzte duzu?</string>
+    <string name="servicios_preguntas_colegios">Ikaztetxe merke nahiko daude zure bizitokian?</string>
+    <string name="servicios_pregunta_transporte">Ikaztetxe merke nahiko eta egoera onean daudela daude zure bizitokian?</string>
+    <string name="servicios_preguntas_bibliotecas">Zure bizitokia ondo komunikatuta dago eta kalitate garario publikoa dagoela uzte duzu? </string>
+
+
+    <!-- activity seguridad  -->
+    <string name="tit_seguridad">Segurtasuna</string>
+    <string name="seg_txt_drogas">Drogak</string>
+    <string name="seg_txt_peleas">Istiluak</string>
+    <string name="seg_txt_prostitucion">Prostituzioa</string>
+    <string name="seg_txt_robos">Lapurreta</string>
+    <string name="seg_txt_otros">Beste Batzuk</string>
+    <string name="seguridad_pregunta_drogas">Zure bizitokian droga presentzia ugari dagoela uzte duzu?</string>
+    <string name="seguridad_pregunta_robos">Zure bizitokian lapurketa ugari gertatzen direla uzte duzu?</string>
+    <string name="seguridad_pregunta_prostitucion">Zure bizitokian kaleko edo lokaletan prostituzio ugari dagoela uzte duzu?</string>
+    <string name="seguridad_pregunta_altercados">Zure bizitokian borroka eta istilu ugari gertatzen direla uzte duzu?</string>
+    <string name="seguridad_pregunta_otros">Zure egoitza beste insecurities lekua al du?</string>
+    
+    <!-- Menú inferior -->
+    <string name="txt_menu_whatever">\?</string>
+    <string name="txt_menu_mapa">Mapa</string>
+</resources>

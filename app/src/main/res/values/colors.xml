@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="habitabilidad">#ffb970</color>
+    <color name="ocio">#faae96</color>
+    <color name="servicios">#3fb0ac</color>
+    <color name="seguridad">#35c793</color>
+    <color name="gris">#bdbdbd</color>
+    <color name="white">#ffffff</color>
+
+    <color name="button_normal">#929392</color>
+    <color name="button_pressed">#c0c1c0</color>
+    <color name="dialog_divider">@android:color/black</color>
+
+    <color name="transparente">#00ffffff</color>
+</resources>

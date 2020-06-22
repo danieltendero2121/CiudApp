@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Settings">Settings</string>
+    <string name="settings_seleccione">Select your town/city</string>
+    <string name="settings_cp">Enter your zip code</string>
+    <string name="settings_buttonOK">OK</string>
+    <string name="settings_seleccione_idioma">Select your language</string>
+    <string name="castellano">Spanish</string>
+    <string name="catalan">Catalan</string>
+    <string name="gallego">Galician</string>
+    <string name="euskera">Basque</string>
+    <string name="ingles">English</string>
+
+
+    <string name="app_name">CiudAPP</string>
+
+    <!-- activity principal  -->
+    <string name="txt_tu_barrio">Your neighborhood</string>
+    <string name="txt_nombre_barrio">Arganzuela</string>
+    <string name="txt_nota_actual">Current score</string>
+    <string name="txt_nota">9,8</string>
+
+
+    <!-- activity habitabilidad  -->
+    <string name="tit_habitabilidad">Habitability</string>
+    <string name="hab_txt_zonas_infantiles">Play areas for children</string>
+    <string name="hab_txt_trafico">Traffic</string>
+    <string name="hab_txt_parques">Parks</string>
+    <string name="hab_txt_cesta_compra">Shopping basket</string>
+    <string name="hab_txt_limpieza">Cleanness</string>
+    <string name="hab_txt_ruido">Noise</string>
+    <string name="habitabilidad_pregunta_zonasInfantiles">Do you think your town/neighborhood has enough and in good condition places for child entertainment?</string>
+    <string name="habitabilidad_pregunta_trafico">What is your opinion about the traffic situation in your town/neighborhood?</string>
+    <string name="habitabilidad_pregunta_parques">Do you think your town/neighborhood has enough green spaces and that they are in good condition?</string>
+    <string name="habitabilidad_pregunta_cestaCompra">Do you think your town/neighborhood has enough variety of stores for the daily shopping and that they offer a good quality-price ratio?</string>
+    <string name="habitabilidad_pregunta_limpieza">Do you think your town/neighborhood is usually clean?</string>
+    <string name="habitabilidad_pregunta_ruido">How would you rate in general the noise level in your town/neighbourhood?</string>
+
+
+    <!-- activity ocio  -->
+    <string name="tit_ocio">Leisure and Free Time</string>
+    <string name="oci_txt_cines">Cinemas</string>
+    <string name="oci_txt_restaurantes">Restaurants</string>
+    <string name="oci_txt_bares">Bars</string>
+    <string name="oci_txt_museos">Cultural Offer</string>
+    <string name="oci_txt_discotecas">Night Clubs</string>
+    <string name="oci_txt_centros_comerciales">Shopping malls</string>
+    <string name="ocio_pregunta_cines">Are there cinemas in a good condition in your town/neighborghood?</string>
+    <string name="ocio_pregunta_restaurantes">Do you think your town/neighborhood presents a good restaurant offer?</string>
+    <string name="ocio_pregunta_bares">Do you think your town/neighborhood presents a good bar/cafeteria offer?</string>
+    <string name="ocio_pregunta_discotecas">Do you think your town/neighborhood presents a good night club/pub offer?</string>
+    <string name="ocio_pregunta_centrosComerciales"> Are there proper and in good condition shopping malls in your town/neighborhood?</string>
+    <string name="ocio_pregunta_ofertaCultural">Do you think the offer in cultural activities in your town/neighborhood is good?</string>
+
+    <!-- activity servicios  -->
+    <string name="tit_servicios">Services</string>
+    <string name="ser_txt_parking">Parking</string>
+    <string name="ser_txt_policia">Police</string>
+    <string name="ser_txt_centros_salud">Health Care</string>
+    <string name="ser_txt_colegios">Schools</string>
+    <string name="ser_txt_transporte_publico">Public Transport</string>
+    <string name="ser_txt_biblioteca">Libraries</string>
+    <string name="servicios_pregunta_aparcamiento">Are there enough free places to park or economic parking lots in your town/neighbourhood?</string>
+    <string name="servicios_pregunta_atencionSanitaria">Does your town/neighborhood offer enough, diverse and in good condition health care facilities?</string>
+    <string name="servicios_preguntas_policia">Do you think the police presence in your town/neighborhood is enough and that the police in your town/neighborhood meets expectations?</string>
+    <string name="servicios_preguntas_colegios">Do you think your town/neighborhood offers enough education facilities and that these are in good condition and economic?</string>
+    <string name="servicios_pregunta_transporte">Do you think your town/neighborhood is well connected and it offers a public transport of quality?</string>
+    <string name="servicios_preguntas_bibliotecas">Does your town/neighborhood offer libraries and/or play centers properly equipped and in good condition?</string>
+
+
+    <!-- activity seguridad  -->
+    <string name="tit_seguridad">Security</string>
+    <string name="seg_txt_drogas">Drugs</string>
+    <string name="seg_txt_peleas">Fighting and Quarreling</string>
+    <string name="seg_txt_prostitucion">Prostitution</string>
+    <string name="seg_txt_robos">Theft</string>
+    <string name="seg_txt_otros">Others</string>
+    <string name="seguridad_pregunta_drogas">Do you think the drug presence, use or dealing with in your town/neighborhood  is worrying?</string>
+    <string name="seguridad_pregunta_robos">Do you think thefts are frequent in your town/neighborhood?</string>
+    <string name="seguridad_pregunta_prostitucion">Do you think prostitution, in the street and/or in enclosed spaces, is worrying in your neighborhood?</string>
+    <string name="seguridad_pregunta_altercados">Do you think fighting and/or quarreling is frequent in your town/neighborhood?</string>
+    <string name="seguridad_pregunta_otros">Are there other security concerns in your town/neighborhood?</string>
+
+    <!-- Menú inferior -->
+    <string name="txt_menu_mapa">Map</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/cgonzalez/Desktop/Proyecto%20Final/CiudApp%20Android/mesnoz-pmdm_proyectofinal_v2-1e8cd25c88b1/AppRestrictionSchema/Application/src/main/res/values-v11/template-styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Base" parent="android:Theme.Holo.Light"/>
+</resources>

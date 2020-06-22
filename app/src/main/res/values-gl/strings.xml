@@ -1,0 +1,88 @@
+<resources>
+
+    <string name="Settings">Axustes</string>
+    <string name="settings_seleccione">Seleccione Residencia</string>
+    <string name="settings_cp">Introduza o seu código postal</string>
+    <string name="settings_buttonOK">ACEPTAR</string>
+    <string name="settings_seleccione_idioma">Seleccione Idioma</string>
+    <string name="castellano">Castelán</string>
+    <string name="catalan">Catalán</string>
+    <string name="gallego">Gallego</string>
+    <string name="euskera">Euskera</string>
+    <string name="ingles">Inglés</string>
+
+
+
+    <string name="app_name">CiudAPP</string>
+
+    <!-- activity principal  -->
+    <string name="txt_tu_barrio">O teu barrio</string>
+    <string name="txt_nombre_barrio">Arganzuela</string>
+    <string name="txt_nota_actual">Nota actual</string>
+    <string name="txt_nota">9,8</string>
+
+
+    <!-- activity habitabilidad  -->
+    <string name="tit_habitabilidad">Habitabilidad</string>
+    <string name="hab_txt_zonas_infantiles">Zoa infantil</string>
+    <string name="hab_txt_trafico">Tráfico</string>
+    <string name="hab_txt_parques">Parques</string>
+    <string name="hab_txt_cesta_compra">Cesta Compra</string>
+    <string name="hab_txt_limpieza">Limpieza</string>
+    <string name="hab_txt_ruido">Ruido</string>
+    <string name="habitabilidad_pregunta_zonasInfantiles">¿Considera que no seu lugar de residencia existen zoas de abondo para o lecer infantil e que se atopan en boas condicións?</string>
+    <string name="habitabilidad_pregunta_trafico">¿Cómo considera que é xeralmente a situación do tráfico no seu lugar de residencia?</string>
+    <string name="habitabilidad_pregunta_parques">¿Considera que su lugar de residencia conta con zoas verdes de abondo e que se atopan en boas condicións?</string>
+    <string name="habitabilidad_pregunta_cestaCompra">¿Considera que no seu lugar de residencia conta cunha boa variedade de tendas de abondo para realizar as suas compras habituais e que amosan unha boa relación calidade prezo?</string>
+    <string name="habitabilidad_pregunta_limpieza">Considero que o seu lugar de residencia está xeralmente limpo?</string>
+    <string name="habitabilidad_pregunta_ruido">Cómo calificaría, en xeral, o nivel de ruído no seu lugar de residencia?</string>
+
+
+    <!-- activity ocio  -->
+    <string name="tit_ocio">Lecer e Tempo Libre</string>
+    <string name="oci_txt_cines">Cines</string>
+    <string name="oci_txt_restaurantes">Restaurantes</string>
+    <string name="oci_txt_bares">Bares</string>
+    <string name="oci_txt_museos">Oferta Cultural</string>
+    <string name="oci_txt_discotecas">Discotecas</string>
+    <string name="oci_txt_centros_comerciales">C.Comerciales</string>
+    <string name="ocio_pregunta_cines">No seu lugar de residencia, ¿existen salas de cinema e atópanse en boas condicións?</string>
+    <string name="ocio_pregunta_restaurantes">¿Considera que no seu lugar de residencia hai unha boa oferta de restauración?</string>
+    <string name="ocio_pregunta_bares">¿Considera que no seu lugar de residencia hai unha boa oferta de bares e cafeterías?</string>
+    <string name="ocio_pregunta_discotecas">¿Considera que no seu lugar de residencia hai unha boa oferta de discotecas e/ou pubs de noite? </string>
+    <string name="ocio_pregunta_centrosComerciales">¿Existen no seu lugar de residencia centros comerciais axeitados e en boas condicións?</string>
+    <string name="ocio_pregunta_ofertaCultural">¿Considera que hai unha boa variedade de actividades culturais no seu lugar de residencia ?</string>
+
+    <!-- activity servicios  -->
+    <string name="tit_servicios">Servizo</string>
+    <string name="ser_txt_parking">Aparcadoiro</string>
+    <string name="ser_txt_policia">Policía</string>
+    <string name="ser_txt_centros_salud">Atención Sanitaria</string>
+    <string name="ser_txt_colegios">Colexios</string>
+    <string name="ser_txt_transporte_publico">Trans.Público</string>
+    <string name="ser_txt_biblioteca">Biblioteca</string>
+    <string name="servicios_pregunta_aparcamiento">¿Existen no seu lugar de residencia prazas de abondo de aparcadoiro e/ou parkings asequibles? </string>
+    <string name="servicios_pregunta_atencionSanitaria">¿Existen no seu lugar de residencia suficientes centros de saúde, variados, e en boas condicións?</string>
+    <string name="servicios_preguntas_policia">¿Considera que no seu lugar de residencia a presencia policial é necesaria e compren a súas función?</string>
+    <string name="servicios_preguntas_colegios">¿Considera que no seu lugar de residencia hai centros educativos de abondo, que se atopan en boas condicións e resultan asequibels?</string>
+    <string name="servicios_pregunta_transporte">¿Considera que o seu lugar de residencia está ben comunicado e o transporte público e de calidade?</string>
+    <string name="servicios_preguntas_bibliotecas">¿Existen no seu lugar de residencia bibliotecas e/ou ludotecas ben dotadas e en boas condicións?</string>
+
+
+    <!-- activity seguridad  -->
+    <string name="tit_seguridad">Seguridade</string>
+    <string name="seg_txt_drogas">Drogas</string>
+    <string name="seg_txt_peleas">Peleas y Altercados</string>
+    <string name="seg_txt_prostitucion">Prostitución</string>
+    <string name="seg_txt_robos">Roubos</string>
+    <string name="seg_txt_otros">Otros</string>
+    <string name="seguridad_pregunta_drogas">¿Considera que no seu lugar de residencia hai unha preocupante presenza de drogas, consumo e/ou venta?</string>
+    <string name="seguridad_pregunta_robos">¿Considera que no seu lugar de residencia danse con frecuencia os roubos?</string>
+    <string name="seguridad_pregunta_prostitucion">¿Considera que no seu lugar de residencia hai una preocupante presencia de prostitución, na rua e/ou en locais?</string>
+    <string name="seguridad_pregunta_altercados">¿Considera que no seu lugar de residencia danse con frecuencia pelexas e/ou altercados?</string>
+    <string name="seguridad_pregunta_otros">¿Existen no seu lugar de residencia noutras inseguridades ?</string>
+    
+    <!-- Menú inferior -->
+    <string name="txt_menu_whatever">\?</string>
+    <string name="txt_menu_mapa">Mapa</string>
+</resources>
